@@ -132,5 +132,8 @@ public class Stud {
 
 ![OUTPUT 2](https://user-images.githubusercontent.com/55503590/79341374-4638c380-7f5e-11ea-8ab8-4771daa1763b.JPG)
 
+![OUTPUT 3](https://user-images.githubusercontent.com/55503590/79341483-73857180-7f5e-11ea-98d6-e8aaa9e32a05.JPG)
+
+
 
 
