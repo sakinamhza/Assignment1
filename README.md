@@ -128,3 +128,7 @@ public class Stud {
     public String getGrade() {return grade;}
 }
 ```
+OUTPUT 1
+(https://user-images.githubusercontent.com/55503590/79340962-9fecbe00-7f5d-11ea-80b0-0a5d8e50546c.JPG)
+
+OUTPUT2
