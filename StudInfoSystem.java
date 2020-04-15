@@ -1,5 +1,3 @@
-main class
-```
 import java.util.Scanner;
 
 public class StudInfoSystem {
@@ -44,11 +42,7 @@ public class StudInfoSystem {
         }
     }
 
-```
 
-class
-
-```
 public class Stud {
 
     private String name;
@@ -125,4 +119,4 @@ public class Stud {
     public String getGrade() {return grade;}
 }
 
-```
+
