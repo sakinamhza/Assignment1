@@ -130,4 +130,7 @@ public class Stud {
 ```
 ![OUTPUT 1](https://user-images.githubusercontent.com/55503590/79340962-9fecbe00-7f5d-11ea-80b0-0a5d8e50546c.JPG)
 
+![OUTPUT 2](https://user-images.githubusercontent.com/55503590/79341374-4638c380-7f5e-11ea-8ab8-4771daa1763b.JPG)
+
+
 
